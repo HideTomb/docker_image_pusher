@@ -1,1 +1,1 @@
-haishanh/yacd
+ghcr.io/gethomepage/homepage
